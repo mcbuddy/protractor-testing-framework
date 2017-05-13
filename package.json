@@ -1,0 +1,12 @@
+{
+  "name": "protractor-testing-framework",
+  "version": "0.0.1",
+  "description": "=== Simple testing framework using protractor ===",
+  "main": "",
+  "scripts": {
+    "tests": "protractor config/localhost-conf.js"
+  },
+  "devDependencies": {
+    "protractor": "5.1.1"
+  }
+}

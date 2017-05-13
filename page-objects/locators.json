@@ -1,0 +1,8 @@
+{
+  "googlePage": {
+    "searchBar-id" : "lst-ib",
+    "searchButton-name" : "btnK",
+    "resultList-id" : "rcnt",
+    "firstResult-xpath":"//*[@id=\"rso\"]/div[1]/div/div[1]/div/div/h3/a"
+  }
+}
